@@ -1,2 +1,3 @@
 # python-mini-projects
-Tổng hợp các project Python nhỏ để học và thực hành.  Bao gồm thuật toán cơ bản, mini app, bài tập OOP, automation script và nhiều nội dung khác.
+A collection of small Python projects created during my learning journey.  
+Includes basic algorithms, recursion, mini apps, OOP exercises, automation scripts, and more.
